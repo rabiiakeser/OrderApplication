@@ -1,8 +1,15 @@
 ## OrderApplication
-Bu proje, yemek siparişleri almak, işlemek ve yönetmek için kullanılan bir Node.js tabanlı backend web uygulamasını içerir. 
-Bu uygulama, müşterilerin yemek siparişi verebilmesine ve yöneticilerin siparişleri görüntülemesine olanak tanır.
 
-# Önkoşullar
-Bu projeyi başlatmak için aşağıdaki yazılımların yüklü olduğundan emin olun:
-Node.js - Sürüm 14 veya üzeri
-npm - Node.js ile birlikte gelir.
+
+Bu proje, bir yemek sipariş web sitesinin backend kısmını oluşturmak için Node.js kullanmaktadır.
+
+## Gereksinimler
+
+Bu projeyi çalıştırmak için aşağıdaki yazılım ve araçlara ihtiyacınız vardır:
+
+- [Node.js](https://nodejs.org/) - Node.js'i kurun.
+- [npm](https://www.npmjs.com/) - Node Package Manager'ı (npm) kurun.
+- [MySQL-Sequelize] - Proje için uygun bir veritabanı sistemi ve ORM aracı.
+
+
+   

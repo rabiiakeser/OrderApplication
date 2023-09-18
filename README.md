@@ -12,5 +12,4 @@ Bu projeyi çalıştırmak için aşağıdaki yazılım ve araçlara ihtiyacın�
 - [MySQL-Sequelize] - Proje için uygun bir veritabanı sistemi ve ORM aracı.
 
 
-   ![Uploading image.png…]()
 
